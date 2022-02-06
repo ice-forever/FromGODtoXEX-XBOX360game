@@ -1,0 +1,2 @@
+# FromGODtoXEX-XBOX360game
+XBOX360游戏的格式互转教程【GOD/XEX/ISO】
